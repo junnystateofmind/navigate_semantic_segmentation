@@ -1,0 +1,27 @@
+Problem Set 3 uses the following files and inputs:
+input_u.txt
+output_y.txt
+X1.txt
+X2.txt
+X3.txt
+
+The X1, X2 and X3 data sets are given for comparison with 
+the results estimated from the Kalman Filter.
+
+
+At = [0.8500    0.1500    0.0500; 0.0500    0.7000     0; 0.0500   -0.0500    0.7500]
+
+     Bt = [10.0000;0;14.2103]
+
+     Gt = [1;1;1]
+
+     Ht = [1 0 0]
+
+     Rt = 2.9862
+
+     Qt = 1.0129
+
+
+
+
+
